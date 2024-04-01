@@ -6,3 +6,5 @@ As a user with Global Administrator priviledge
 - 2024-04-01: Deleted most users. Didn't delete the users that represented myself
 - 2024-04-01: Deleted the Guest user (User type=Guest, Identities=ExternalAD), which I believe was the identity that I used to create the tenant
 - 2024-04-01: Deleted the tenant
+
+https://jpazureid.github.io/blog/azure-active-directory/add-modify-delete-directory/
